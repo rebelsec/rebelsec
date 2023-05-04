@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rebelsec" alt="rebelsec" /></a> </p>
 
-- 🔭 I’m currently not working 😥
+- 🔭 I’m currently **not working** 😥
 
 - 👨‍💻 All of my projects are available at [https://www.rebelsec.id](https://www.rebelsec.id)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **[Click Me](https://www.rebelsec.id/contact/)**
 
-- ⚡ Fun fact **I Like You 💌**
+- ⚡ Fun fact **I Love You 😘 💌**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
