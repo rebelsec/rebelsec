@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Doltons Edward N Pabiaran</h1>
-<h3 align="center">Fullstack Developer & Learning Support</h3>
+<h1 align="center">Hi 👋, I'm Galatia Sijabat</h1>
+<h3 align="center">Cyber Security Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=doltonsedward&label=Profile%20views&color=0e75b6&style=flat" alt="doltonsedward" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rebelsec&label=Profile%20views&color=0e75b6&style=flat" alt="rebelsec" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doltonsedward" alt="doltonsedward" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rebelsec" alt="rebelsec" /></a> </p>
 
 - 🔭 I’m currently working on **Nirvana Yoga Shala Company**
 
@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on **Typescript Project**
 
-- 👨‍💻 All of my projects are available at [https://doltonsedward-svelte.vercel.app](https://doltonsedward-svelte.vercel.app)
+- 👨‍💻 All of my projects are available at [https://www.rebelsec.id](https://www.rebelsec.id)
 
 - 💬 Ask me about **React, VanillaJS**
 
-- 📫 How to reach me **me.doltonsedward@gmail.com**
+- 📫 How to reach me **[Click Me](https://www.rebelsec.id)**
 
 - ⚡ Fun fact **I like game and girls (obviously)**
 
