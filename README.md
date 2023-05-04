@@ -5,23 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rebelsec" alt="rebelsec" /></a> </p>
 
-- 🔭 I’m currently working on **Nirvana Yoga Shala Company**
-
-- 🌱 I’m currently learning **Discord.js**
-
-- 👯 I’m looking to collaborate on **Typescript Project**
+- 🔭 I’m currently not working 😥
 
 - 👨‍💻 All of my projects are available at [https://www.rebelsec.id](https://www.rebelsec.id)
 
-- 💬 Ask me about **React, VanillaJS**
+- 💬 Ask me about **Hugo, Cyber Security**
 
-- 📫 How to reach me **[Click Me](https://www.rebelsec.id)**
+- 📫 How to reach me **[Click Me](https://www.rebelsec.id/contact/)**
 
-- ⚡ Fun fact **I like game and girls (obviously)**
+- ⚡ Fun fact **I Like You 💌**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/dollong_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dollong_dev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/galatiasijabat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dollong_dev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
